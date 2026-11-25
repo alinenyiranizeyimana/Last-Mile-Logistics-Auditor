@@ -1,0 +1,6 @@
+# Raw Olist data is large - download it from Kaggle instead of committing it
+olist_*.csv
+product_category_name_translation.csv
+
+.ipynb_checkpoints/
+__pycache__/
